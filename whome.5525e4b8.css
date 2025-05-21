@@ -1,0 +1,34 @@
+body {
+  background: #f4f4f4;
+  padding: 1em;
+  font-family: sans-serif;
+}
+
+.container {
+  background: #fff;
+  border-radius: 10px;
+  max-width: 600px;
+  margin: auto;
+  padding: 1em;
+  box-shadow: 0 0 10px #0000001a;
+}
+
+#qr-generator {
+  margin-top: 1em;
+}
+
+input {
+  width: calc(100% - 120px);
+  padding: .5em;
+}
+
+button {
+  margin-left: 1em;
+  padding: .5em;
+}
+
+img {
+  max-width: 100%;
+  margin-top: 1em;
+}
+/*# sourceMappingURL=whome.5525e4b8.css.map */
